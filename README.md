@@ -35,8 +35,10 @@ This is a test file with only ONE word in it, instead of 58,000. It's a lot easi
 Your program should run when you run this file like this:
 
 ```py
+
 python mystery_word.py
 ```
+
 
 The computer (that's you, writing this in Python code) must select a word at random from the list of words in the file `words.txt`, provided in this repo. This becomes the secret word for the game.
 
